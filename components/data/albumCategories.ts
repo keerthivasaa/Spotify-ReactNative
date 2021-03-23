@@ -4,22 +4,22 @@ export default [{
     albums: [
       {
         id: '1',
-        imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-        artistHeadline: 'Taylor Swift, Kygo Objective C, Avicii'
+        imageUri: 'https://www.mwallpapers.com/photos/celebrities/yuvan-shankar-raja/yuvan-shankar-rajahd-wallpapers-desktop-background-android-iphone-1080p-4k-s3mnw.jpg?v=1597500075',
+        artistHeadline: 'Yuvan Shankar Raja'
       }, {
         id: '2',
-        imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-        artistHeadline: 'Post Malone, Drake, Eminem'
+        imageUri: 'http://www.behindwoods.com/tamil-movies-cinema-news-16/images/anirudh-ravichander-updates-about-kolamaavu-kokilas-first-single-release-photos-pictures-stills.jpg',
+        artistHeadline: 'Anirudh Ravichandran'
       },
       {
         id: '3',
-        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-        artistHeadline: 'Journey, Escape, Avicii'
+        imageUri: 'https://englishtribuneimages.blob.core.windows.net/gallary-content/2020/7/2020_7$largeimg_741540610.jpg',
+        artistHeadline: 'AR Rahman'
       },
       {
         id: '4',
-        imageUri: 'https://i.pinimg.com/originals/a2/0d/37/a20d37791f8ad5cd54734cd3af559cc9.jpg',
-        artistHeadline: 'Bob Marley, Cardi B, Stas Mihailov'
+        imageUri: 'https://pbs.twimg.com/media/EXacE-5UYAEkq10.jpg',
+        artistHeadline: 'GV Prakesh'
       },
     ]
   }, {
